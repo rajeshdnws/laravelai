@@ -14,7 +14,7 @@
 
     <!-- Fonts -->
     <link rel="dns-prefetch" href="//fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+      	<link href="https://fonts.googleapis.com/css?family=Roboto:400&display=swap" rel="stylesheet" property="stylesheet" media="all" type="text/css" >
 
     <!-- Styles -->
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
@@ -26,7 +26,7 @@
 		
 <body>
     <div id="app">
-        <nav class="navbar navbar-expand-md navbar-light bg-dark shadow-sm">
+        <nav class="navbar navbar-expand-md navbar-light bg-gray shadow-sm">
             <div class="container">
 			 <div class="elementor-widget-container">
                 <a class="navbar-brand" href="{{ url('/') }}">
