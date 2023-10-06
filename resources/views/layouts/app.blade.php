@@ -24,7 +24,8 @@
 
 <div class="elementor-widget-container">
 		
-<body>
+<body style='background-image: url("images/banner-first.jpg")'> 
+
     <div id="app">
         <nav class="navbar navbar-expand-md navbar-light bg-gray shadow-sm">
             <div class="container">
